@@ -1,0 +1,22 @@
+{
+  "name": "is-wds-adv",
+  "version": "1.0.0",
+  "description": "Is the string WDS?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irtaza9/is-wds-npm-package.git"
+  },
+  "keywords": [
+    "WDS"
+  ],
+  "author": "Irtaza Hussain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/irtaza9/is-wds-npm-package/issues"
+  },
+  "homepage": "https://github.com/irtaza9/is-wds-npm-package#readme"
+}
